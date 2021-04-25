@@ -23,15 +23,18 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n<b>Uploaded by @movieworldkdy
+        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n
+        
+<b>Uploaded by @movieworldkdy
 
 ✪༺ ──•◈•─ •─  ─•◈•──༻✪
+
 ᴀʟʟ ᴄʜᴀɴɴᴇʟs : @mwklinks
 ᴏᴛᴛ ʀᴇʟᴇᴀꜱᴇ  : @mwkchannel4
 ᴡᴇʙ ꜱᴇʀɪᴇꜱ   : @MWKseries
 Tech & Support : @redbullfed
 
-🎗️ ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят 🎗️
+🎗️ ѕнαяє🎗️ ѕυρρσят 🎗️
 
 ❤️ Fɪʀꜱᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ ❤️</b>""")
         
