@@ -23,6 +23,6 @@ class Translation(object):
     ABOUT_TEXT = """<b>🧩 പേര്</b> : <code> ക്രിതി ഷെട്ടി ❣️ </code>
 * <b>ഇന്റെ മൊയലാളി</b> : <b><i><a href="https://t.me/shamilnelli">ꜱʜᴀᴍɪʟ ʜᴀʙᴇᴇʙ 🇮🇳</a></i></b>
 * <b>സിനിമാ ഗ്രൂപ്പ്</b> : <b><i><a href="https://t.me/MOVIEWORLDKDY">MOVIE WORLD KDY ™</a></i></b>
-* <b>ടെക്നിക്കൽ ഗ്രൂപ്പ്</b> : <b><i><a href="https://t.me/redbullfed">Tech SUPPORT GROUP 🇮🇳</a></i></b>
-* <b>സംശയ നിവാരണം<b> : <i><a href="https://t.me/shamilhelpbot">Bot Assistant Donate Promotion</a></i>
+* <b>ടെക്നിക്കൽ ഗ്രൂപ്പ്</b> : <b><i><a href="https://t.me/redbullfed">Tech GROUP 🇮🇳</a></i></b>
+* <b>സംശയ നിവാരണം</b> : <i><b><a href="https://t.me/shamilhelpbot">Bot Assistant Donate Promotion</a></b></i>
 """
