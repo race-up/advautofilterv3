@@ -5,12 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Hello Am Aishu ❣️
-
-Work Only On @movieworldkdY
-No One Gonna Help you In My Case 😝
-@shamilnelli
-</i>"""    
+<i>ഞാൻ ഒരു മഹാ സംഭവം ആണ്...😌 
+അത് കരുതി <b><a href="https://t.me/shamilnelli">ഈ ചെറുക്കൻ</a></b> മാത്രമേ എന്നെ കൈകാര്യം ചെയ്യാൻ ഒക്കൂ...😝, 
+<b><a href="https://t.me/MOVIEWORLDKDY">MOVIE WORLD KDY ™</a></b> ഈ ഗ്രൂപ്പിൽ മാത്രമേ ഞാൻ പ്രവർതിക്കൂ 😌</i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
