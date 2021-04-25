@@ -29,8 +29,8 @@ async def start(bot, update):
 ✪༺ ──•◈•─ •─  ─•◈•──༻✪
 
 ᴀʟʟ ᴄʜᴀɴɴᴇʟs : @mwklinks
-ᴏᴛᴛ ʀᴇʟᴇᴀꜱᴇ   : @mwkchannel4
-ᴡᴇʙ ꜱᴇʀɪᴇꜱ    : @MWKseries
+ᴏᴛᴛ ʀᴇʟᴇᴀꜱᴇ    : @mwkchannel4
+ᴡᴇʙ ꜱᴇʀɪᴇꜱ      : @MWKseries
 ᴛᴇᴄʜ, ꜱᴜᴩᴩᴏʀᴛ : @redbullfed
 
 🎗️ ѕнαяє🎗️ ѕυρρσят 🎗️
