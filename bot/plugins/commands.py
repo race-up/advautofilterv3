@@ -23,7 +23,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        Code : caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n<b>Uploaded by @movieworldkdy
+        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n<b>Uploaded by @movieworldkdy
 
 ✪༺ ──•◈•─ •─  ─•◈•──༻✪
 ᴀʟʟ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋꜱ : @ᴍᴡᴋʟɪɴᴋꜱ
