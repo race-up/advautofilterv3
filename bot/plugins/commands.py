@@ -23,18 +23,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + "</code>\n<b>Uploaded By : @movieworldkdy
-
-✪༺ ──•◈•─ •─  ─•◈•──༻✪
-ᴀʟʟ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋꜱ : @ᴍᴡᴋʟɪɴᴋꜱ
-ɴᴇᴡ ᴏᴛᴛ ʀᴇʟᴇᴀꜱᴇꜱ  : @mwkchannel4
-ᴛᴠ / ᴡᴇʙ ꜱᴇʀɪᴇꜱᴇꜱ  : @MWKseries
-ꜱᴜᴩᴩᴏʀᴛ ᴛᴇᴄʜ ɢʀᴏᴜᴩ : @redbullfed
-
-🎗️ ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят 🎗️
-
-❤️ Fɪʀꜱᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ ❤️
-</b>")
+        caption = f"<b>Title</b> : {caption}\n<b>Uploaded byb@movieworldkdy\n\n✪༺ ──•◈•─ •─  ─•◈•──༻✪\nᴀʟʟ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋꜱ : @ᴍᴡᴋʟɪɴᴋꜱ\n\nɴᴇᴡ ᴏᴛᴛ ʀᴇʟᴇᴀꜱᴇꜱ  : @mwkchannel4\n\nᴛᴠ / ᴡᴇʙ ꜱᴇʀɪᴇꜱᴇꜱ  : @MWKseries\n\nꜱᴜᴩᴩᴏʀᴛ ᴛᴇᴄʜ ɢʀᴏᴜᴩ : @redbullfed\n\n\n\n\🎗️ ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят 🎗️\n\n\n\n❤️ Fɪʀꜱᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ ❤️b>"
         
         if file_type == "document":
         
