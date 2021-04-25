@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/shamilnelli"
+                                    '❤️ share group with friends ❤️', url="http://t.me/share/url?url=%2A%2AHai+Bro%20%E2%9D%A4%EF%B8%8F%2C%20%2A%2A%0A__Today%20I%20Just%20Found%20Out%20A%20Movie+Group%20Which%20Uploads__%20%2A%2ARequested+Movies%20In%20Second's%2A%2A%F0%9F%A5%B0.%0A%2A%2AJσιи+Nσω%20%20%3A%20%40MOVIEWORLDKDY+👌%F0%9F%94%A5%2A%2A"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/shamilnelli"
+                                    '❤️ share group with your friends ❤️', url="http://t.me/share/url?url=%2A%2AHai+Bro%20%E2%9D%A4%EF%B8%8F%2C%20%2A%2A%0A__Tohttp://t.me/share/url?url=%2A%2AHai+Bro%20%E2%9D%A4%EF%B8%8F%2C%20%2A%2A%0A__Today%20I%20Just%20Found%20Out%20A%20Movie+Group%20Which%20Uploads__%20%2A%2ARequested+Movies%20In%20Second's%2A%2A%F0%9F%A5%B0.%0A%2A%2AJσιи+Nσω%20%20%3A%20%40MOVIEWORLDKDY+👌%F0%9F%94%A5%2A%2A👌%F0%9F%94%A5%2A%2Al"
                                 )
                         ]
                     ]
