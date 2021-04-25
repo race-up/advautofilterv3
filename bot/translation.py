@@ -21,10 +21,10 @@ class Translation(object):
 """
     
     ABOUT_TEXT = """<b>🧩 പേര്</b> : <code> ഐശ്വര്യ ലക്ഷ്മി ❣️ </code>
-• ഇന്റെ മൊയലാളി</b> : <b><i><a href="https://t.me/shamilnelli">ꜱʜᴀᴍɪʟ ʜᴀʙᴇᴇʙ 🇮🇳</a></i></b>
+• <b>ഇന്റെ മൊയലാളി</b> : <b><i><a href="https://t.me/shamilnelli">ꜱʜᴀᴍɪʟ ʜᴀʙᴇᴇʙ 🇮🇳</a></i></b>
 • <b>സിനിമാ ഗ്രൂപ്പ്</b> : <b><i><a href="https://t.me/MOVIEWORLDKDY">MOVIE WORLD KDY ™</a></i></b>
 
-<b>ടെക്നിക്കൽ ഗ്രൂപ്പ്<b><i><a href="https://t.me/redbullfed">MWK | SUPPORT GROUP 🇮🇳</a></i></
+* <b>ടെക്നിക്കൽ ഗ്രൂപ്പ്</b> : <b><i><a href="https://t.me/redbullfed">MWK | SUPPORT GROUP 🇮🇳</a></i></b>
 
-<b>സംശയ നിവാരണംb> : <i><a href="https://t.me/shamilhelpbot">Bot Assistant Donate Promotion</a></i>
+* <b>സംശയ നിവാരണം<b> : <i><a href="https://t.me/shamilhelpbot">Bot Assistant Donate Promotion</a></i>
 """
