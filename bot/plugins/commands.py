@@ -98,3 +98,4 @@ async def start(bot, update):
 
         else:
             print(file_type)
+        return
